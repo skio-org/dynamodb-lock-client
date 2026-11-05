@@ -2,7 +2,6 @@
 
 const crypto = require("crypto");
 const events = require("events");
-const Joi = require("@hapi/joi");
 const os = require("os");
 const pkg = require("./package.json");
 const util = require("util");
